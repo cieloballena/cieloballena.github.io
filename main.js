@@ -1,2 +1,1 @@
-var string = document.getElementById("string");
-string.toString().replace("World", "Clickseo");
+document.write("<p>2014722058");
