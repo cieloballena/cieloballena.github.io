@@ -1,2 +1,2 @@
-var string = getElementById("string");
+var string = document.getElementById("string");
 string.replace("World", "Clickseo");
