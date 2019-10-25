@@ -1,2 +1,2 @@
 var string = document.getElementById("string");
-string.toString(base).replace("World", "Clickseo");
+string.toString().replace("World", "Clickseo");
